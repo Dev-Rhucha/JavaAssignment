@@ -2,7 +2,7 @@ package LoopsInJava;
 
 public class PracticeForLoop {
 
-	public static void main(String[] args) {
+	public static void main(stringPractice[] args) {
 
 		
 		for(int i=1;i<=20;i+=2)

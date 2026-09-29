@@ -17,7 +17,7 @@ public class SolidRectangleStarPattern {
 			}
 			System.out.println();
 		}
-		
+		sc.close();	
 	}
 
 }

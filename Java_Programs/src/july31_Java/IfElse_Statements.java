@@ -92,6 +92,7 @@ public class IfElse_Statements {
 		        } else {
 		            System.out.println("Both numbers are Equal");
 		        }
+		        sc.close();	
 		    }
 //		
 //

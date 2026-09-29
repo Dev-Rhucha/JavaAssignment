@@ -20,6 +20,7 @@ public class ReverseRightAngleTriangle {
 			System.out.println();
 		}
 		
-	}
+		sc.close();	
+		}
 
 }

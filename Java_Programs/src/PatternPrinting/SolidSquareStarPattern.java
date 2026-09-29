@@ -22,7 +22,7 @@ public class SolidSquareStarPattern {
 
 		}
 		
-		
+		sc.close();	
 		
 	}
 

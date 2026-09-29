@@ -36,9 +36,9 @@ public class java5 {
 
 		        // 23. Factorial
 		        System.out.print("\nEnter a number for factorial: ");
-		        int factNum = sc.nextInt();
+		        long factNum = sc.nextInt();
 
-		        int factorial = 1;
+		        long factorial = 1;
 
 		        for (int i = 1; i <= factNum; i++) {
 		            factorial = factorial * i;
